@@ -27,8 +27,8 @@
 
 #include <map>
 
-#include "common/Plugin.hh"
-#include "common/Time.hh"
+#include "gazebo/common/Plugin.hh"
+#include "gazebo/common/Time.hh"
 //#include "physics/physics.h"
 //#include "transport/TransportTypes.hh"
 //#include "msgs/MessageTypes.hh"
